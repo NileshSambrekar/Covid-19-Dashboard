@@ -15,4 +15,4 @@ across different regions and countries/
 
 ****Usage****
 1. Use the filters provided on the dashboard to explore data by region,country,
- month and yearwisse
+ month and yearwise
